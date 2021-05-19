@@ -1,2 +1,2 @@
 # module1
-sample repository for assignments
+ASSIGNMENT 1
